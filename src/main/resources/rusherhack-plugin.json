@@ -1,0 +1,12 @@
+{
+  "Plugin-Class": "org.kybe.OpenFolder",
+  "Name": "Open Folder",
+  "Version": "${plugin_version}",
+  "Description": "Opens the coresponding folder with an button",
+  "Authors": [
+    "kybe236"
+  ],
+  "Minecraft-Versions": [
+    "1.21"
+  ]
+}
